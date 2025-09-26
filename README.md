@@ -25,7 +25,7 @@ A comprehensive student registration system for the King Fahad Medical City (KFM
 ## Usage
 
 1. Run the main application: 
-Python main.py
+Python main.py or
 Py main.py
 
 2. The application will open with the home page displaying KFMC information
