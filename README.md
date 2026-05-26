@@ -38,7 +38,7 @@ Py main.py
 
 4. For admin access, use:
    - Username: admin
-   - Password: admin123 
+   - Password:  
 
 ## Technical Details
 
